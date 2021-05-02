@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-notes
 ## Growth Mindset
 To have a growth mindset in generla means to believe that we as individual can get smarter by working hard and put as much effort as we can. also from our  understanding that effort will develop our abilities and bring us more opportunities to explore.
 
