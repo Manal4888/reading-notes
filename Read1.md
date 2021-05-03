@@ -7,7 +7,7 @@
 ## Summary of Markdown Benefits:
 - Easy to create
 - Save time & effort
-- Providing relaible teamwork by the ability of sharing our project with our team member
+- Providing reliable teamwork by the ability of sharing our project with our team member
 - Fit for create documentation for a certain project
 
 ## Markdown syntax

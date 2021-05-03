@@ -3,25 +3,27 @@
 - Terminal (for Mac)  
 - Command Line (for Windows and Linux)
 
-### Git is Workong on the local device
+### Git is Working on the local device
 Version Control types:
 - Local
 - Centralized
-- Distributed 
+- Distributed
 
-
- ### Benefits of using Git:
+### Benefits of using Git:
  - *Snapshots*
  - *Local Operations*
  - *Tracking Changes*
  - *Loss of Data*
- - *States (Committed, Modified,Staged)*.
+ - *States (Committed, Modified,Staged)*
 
 
- ### Steps:
+### Steps:
  - Importing
  - Cloning
  - add/edit using code editor
  - ACP commands 
- - confirm usrename & password 
+    * git add .
+    * git commit -m" Why
+    * git push origin main
+ - Confirm usrename & password 
  
