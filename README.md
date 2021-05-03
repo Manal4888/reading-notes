@@ -6,6 +6,8 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 ### [Link](https://github.com/Manal4888) to My GitHub
 
 
+<<<<<<< HEAD
+=======
 ## Table of Contents
 Assignments |  Links
 ------------|-----------
