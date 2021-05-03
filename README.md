@@ -7,8 +7,8 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 
 
 ## Table of Contents
-Assignments |  Links
-------------|-----------
+Assignments|Links
+-----------|---------
 Growth Mindset|[Lab1-link](Lab1.md)
 Read1| [Read1-Link](Read1.md)
 Read2|[Read2-link](Read2.md)
