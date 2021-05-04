@@ -10,6 +10,7 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 Assignments|Links
 -----------|---------
 Growth Mindset|[Lab1-link](Lab1.md)
-Read1| [Read1-Link](Read1.md)
-Read2|[Read2-link](Read2.md)
-Read3|[Read3-link](Read3.md)
+Read1| [Markdown-Link](Read1.md)
+Read2|[Git-link](Read2.md)
+Read3|[HTML-link](Read3.md)
+Read3b|[CSS-link](Read3b.md)
