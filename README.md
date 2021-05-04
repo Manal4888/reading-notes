@@ -12,4 +12,4 @@ Assignments|Links
 Growth Mindset|[Lab1-link](Lab1.md)
 Read1| [Read1-Link](Read1.md)
 Read2|[Read2-link](Read2.md)
-
+Read3|[Read3-link](Read3.md)
