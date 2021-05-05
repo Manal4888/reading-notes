@@ -5,3 +5,4 @@ To have a growth mindset in generla means to believe that we as individual can g
 - **Having lower expectations so not get disapointed easly**
 - **Beliving in no different results will show up  if I keep doing the same so I have to explor/try more**
 - **Accept challenges as much as I can**
+
