@@ -17,4 +17,4 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Read3b|[CSS-link](Read3b.md)|
 |Read4|[JS-control-flow](Read4.md)|
 |Read5|[JS-Loops](Read5.md)|
-
+|Read6|[JS-Functions](Read6.md)|
