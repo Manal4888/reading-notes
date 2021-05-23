@@ -26,5 +26,5 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |-----------|---------|
 |Read1|[Markdown-Link](201/Read1.md)|
 |Read2|[GitHub Pages](201/Read2.md)|
-|Class1|[ Introductory HTML and JavaScript](201/Class1.md)|
-|Class2|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/Class2.md)|
+|Class1|[ Introductory HTML and JavaScript](201/Class01.md)|
+|Class2|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/Class02.md)|
