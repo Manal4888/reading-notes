@@ -6,15 +6,21 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 ### [Link](https://github.com/Manal4888) to My GitHub
 
 
-## Table of Contents
+## Code 102 Reading Notes
 
 |Assignments|Links|
 |-----------|---------|
-|Growth Mindset|[Lab1-link](Lab1.md)|
-|Read1| [Markdown-Link](Read1.md)|
-|Read2|[Git-link](Read2.md)|
-|Read3|[HTML-link](Read3.md)|
-|Read3b|[CSS-link](Read3b.md)|
-|Read4|[JS-control-flow](Read4.md)|
-|Read5|[JS-Loops](Read5.md)|
-|Read6|[JS-Functions](Read6.md)|
+|Growth Mindset|[Lab1-link](102/Lab1.md)|
+|Read1| [Markdown-Link](102/Read1.md)|
+|Read2|[Git-link](102/Read2.md)|
+|Read3|[HTML-link](102/Read3.md)|
+|Read3b|[CSS-link](102/Read3b.md)|
+|Read4|[JS-control-flow](102/Read4.md)|
+|Read5|[JS-Loops](102/Read5.md)|
+|Read6|[JS-Functions](102/Read6.md)|
+
+## Code 201 Reading Notes
+|Assignments|Links|
+|-----------|---------|
+|Read1|[Markdown-Link](201/Read1.md)|
+|Read2|[GitHub Pages](201/Read2.md)|
