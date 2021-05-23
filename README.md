@@ -19,9 +19,12 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Read5|[JS-Loops](102/Read5.md)|
 |Read6|[JS-Functions](102/Read6.md)|
 
+
 ## Code 201 Reading Notes
 
 |Assignments|Links|
 |-----------|---------|
 |Read1|[Markdown-Link](201/Read1.md)|
 |Read2|[GitHub Pages](201/Read2.md)|
+|Class1|[ Introductory HTML and JavaScript](201/Class1.md)|
+|Class2|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/Class2.md)|
