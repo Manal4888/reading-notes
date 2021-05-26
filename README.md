@@ -30,4 +30,4 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class02|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/Class02.md)|
 |Class03|[HTML Lists, CSS Boxes, JS Control Flow](201/Class03.md)|
 |Class04|[HTML Links, JS Functions, and Intro to CSS Layout](201/Class04.md)|
-Class05|[](201/Class05.md)|
+Class05|[HTML Images; CSS Color & Text:](201/Class05.md)|
