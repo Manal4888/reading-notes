@@ -33,3 +33,4 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class05|[HTML Images; CSS Color & Text:](201/Class05.md)|
 |Class06|[Problem Domain, Objects, and the DOM](201/Class06.md)
 |Class07|[HTML Tables; JS Constructor Functions](201/Class07.md)
+|Class08|[CSS Layout](201/Class08.md)
