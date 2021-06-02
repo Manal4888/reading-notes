@@ -35,3 +35,4 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class07|[HTML Tables; JS Constructor Functions](201/Class07.md)
 |Class08|[CSS Layout](201/Class08.md)
 |Class09| [Forms and JS Events](201/Class09.md)
+|Class10|[JS Debugging](201/Class10.md)
