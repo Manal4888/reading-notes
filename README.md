@@ -38,3 +38,4 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class10|[JS Debugging](201/Class10.md)
 |Class11|[HTML Audio, Video, Images](201/Class11.md)
 |Class12|[Chart.js, Canvas](201/Class12.md)
+|Class13|[Local Storage](201/Class13.md)
