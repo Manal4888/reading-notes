@@ -18,3 +18,5 @@
 
 
 # [Reference Link](https://www.chartjs.org/docs/latest/)
+
+(https://cdn.jsdelivr.net/npm/chart.js@2.8.0) to be added as seperate script tag 
