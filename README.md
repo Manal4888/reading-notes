@@ -39,3 +39,5 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class11|[HTML Audio, Video, Images](201/Class11.md)
 |Class12|[Chart.js, Canvas](201/Class12.md)
 |Class13|[Local Storage](201/Class13.md)
+|Class14-a|[CSS Transforms, Transitions, and Animations](201/Class14-a.md)
+|Class14-b|[What Google Learned About Teams](201/Class14-b.md)
