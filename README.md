@@ -8,12 +8,14 @@ Manal Ateyyat, graduated from Jordan University as Electrical Engineer.
 Having good experience in Renewable Energy and Energy Efficiency sector, I am glad to be part of this program so I can develop my skills and gain new tools to explore more opportunities and knowledge
 ### [Link](https://github.com/Manal4888) to My GitHub
 
-|Course|Description|
-|-----------|---------|
+|Course  |Description|
+|--------|---------|
 |Code 102| Intro to Software Development|
 |Code 201| Foundations of Software Development|
 |Code 301| Intermediate Software Development|
 |Code 401| Advanced Software Development|
+
+
 ## Code 102 Reading Notes
 
 |Assignments|Links|
