@@ -51,3 +51,17 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class13|[Local Storage](201/Class13.md)
 |Class14-a|[CSS Transforms, Transitions, and Animations](201/Class14-a.md)
 |Class14-b|[What Google Learned About Teams](201/Class14-b.md)
+
+
+
+
+
+## Code 301 Reading Notes
+
+|Assignments|Links|
+|-----------|---------|
+|Class01|[Introduction to React and Components](301/Class01.md)
+
+
+
+# Things I want to know more about
