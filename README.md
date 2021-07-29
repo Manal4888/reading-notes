@@ -65,5 +65,6 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class03| [React Passing Functions as Props](301/Class03.md)
 |Class04| [React and Forms](301/Class04.md)
 |Class05|[REACT Putting it all together](301/Class05.md)
+|Class06| [An Introduction to Node.js ](301/Class06.md)
 
 # Things I want to know more about:
