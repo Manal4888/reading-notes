@@ -64,7 +64,8 @@ Having good experience in Renewable Energy and Energy Efficiency sector, I am gl
 |Class02| [React lifecycle State and Props](301/Class02.md)
 |Class03| [React Passing Functions as Props](301/Class03.md)
 |Class04| [React and Forms](301/Class04.md)
-|Class05|[REACT Putting it all together](301/Class05.md)
+|Class05| [REACT Putting it all together](301/Class05.md)
 |Class06| [An Introduction to Node.js ](301/Class06.md)
-
+|Class07a|[REST-HTTP : GET POST PUT PATCH](301/Class07a.md)
+|Class07b|[API Keys websites](301/Class07b.md)
 # Things I want to know more about:
